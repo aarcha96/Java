@@ -15,7 +15,7 @@ public class NumericStreamBoxingUnboxingExample {
 
     }
 
-    public static List<Integer> boxing() {
+    private static List<Integer> boxing() {
         //boxing
         //convert primitive to wrapper class type
         //int to Integer
